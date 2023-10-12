@@ -14,7 +14,7 @@ h1 {
     background-clip: text;
     -webkit-background-clip: text;
     text-align: center;
-    font-weight: bold;
-    font-size: 440px;
+    font-weight: bolder;
+    font-size: 550px;
     color: transparent;
 }
