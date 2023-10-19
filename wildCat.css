@@ -22,5 +22,5 @@ body {
     display: inline-block;
     background-image: url("https://d.newsweek.com/en/full/2147786/scary-tiger.jpg?w=1600&h=900&q=88&f=cf97875cb1d4d81e0e7cb2264eb947d5");
     background-repeat: no-repeat;
-
+    background-size: cover;
 }
