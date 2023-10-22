@@ -25,4 +25,5 @@ body {
     background-size: cover;
     background-clip: border-box;
     -webkit-background-clip: text;
+    text-align: center;
 }
