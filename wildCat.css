@@ -20,11 +20,13 @@ body {
 }
 #two {
     display: inline-block;
-    background-image: url("https://d.newsweek.com/en/full/2147786/scary-tiger.jpg?w=1600&h=900&q=88&f=cf97875cb1d4d81e0e7cb2264eb947d5");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2y7CrxMEdKtUKXYU9pSbBwqFwtXO_vqXow&usqp=CAU");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-clip: border-box;
     -webkit-background-clip: text;
     text-align: center;
+    font-weight: bold;
+    font-size: 550px;
 }
