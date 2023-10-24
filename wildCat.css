@@ -23,7 +23,7 @@ body {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2y7CrxMEdKtUKXYU9pSbBwqFwtXO_vqXow&usqp=CAU");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: top;
     background-clip: border-box;
     -webkit-background-clip: text;
     text-align: center;
