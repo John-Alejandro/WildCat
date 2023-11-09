@@ -60,5 +60,6 @@ body {
 }#five {
     display: inline-block;
     background-image: url("https://www.google.com/aclk?sa=l&ai=DChcSEwjg0Y25lLaCAxW8R38AHRfoDq8YABANGgJvYQ&ase=2&gclid=Cj0KCQiAgK2qBhCHARIsAGACuzn8OEqZe4hSzTPmsIBivu8jHQrMVUB8ohixBDu1KZ0dp174zbaZf_EaAgb5EALw_wcB&sig=AOD64_1rggztERDPekWb6RTMswlgherEHw&ctype=5&nis=6&adurl&ved=2ahUKEwi5v_-4lLaCAxXmKd4AHb5RDsoQvhd6BQgBEKAB");
-    font-size: 550px;
+    background-repeat: no-repeat;
+     font-size: 550px;
  }
