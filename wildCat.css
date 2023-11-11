@@ -64,4 +64,6 @@ body {
     background-position: center;
     background-clip: border-box;
      font-size: 550px;
+    -webkit-background-clip: text;
+
  }
