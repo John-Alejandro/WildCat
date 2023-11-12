@@ -65,6 +65,7 @@ body {
     background-clip: border-box;
     -webkit-background-clip: text;
     text-align: center;
+    font-weight: bolder;
      font-size: 550px;
 
  }
