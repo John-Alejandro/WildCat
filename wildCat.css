@@ -61,7 +61,7 @@ body {
 #five {
     display: inline-block;
     background-image: url("https://www.google.com/aclk?sa=l&ai=DChcSEwjoyNDmlLaCAxWzKK0GHe76CX8YABAPGgJwdg&ase=2&gclid=Cj0KCQiAgK2qBhCHARIsAGACuzntQnMSFY1uiTg_Ek7lSe0dOeVpcSGV44m26PXd5qZP2RegkSLDBYoaAu-DEALw_wcB&sig=AOD64_2_UwPOGOfQTi1mwwcPJmg5bJ-XLA&ctype=5&nis=6&adurl&ved=2ahUKEwitrMLmlLaCAxUoFN4AHbwnAKMQvhd6BQgBEKUB");
-    /*background-repeat: no-repeat;*/
+    background-repeat: no-repeat;
     /*background-size: cover;*/
     /*background-position: center;*/
     /*background-clip: border-box;*/
