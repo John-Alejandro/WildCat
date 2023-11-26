@@ -65,7 +65,7 @@ body {
     background-size: cover;
     background-position: center;
     background-clip: border-box;
-    /*-webkit-background-clip: text;*/
+    -webkit-background-clip: text;
     /*text-align: center;*/
     /*font-weight: bold;*/
     /*font-size: 550px;*/
