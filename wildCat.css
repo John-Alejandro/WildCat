@@ -80,6 +80,7 @@ body {
     -webkit-background-clip: text;
     text-align: center;
     font-weight: bold;
+    font-size: 550px;
 }
 #seven {
     display: inline-block;
