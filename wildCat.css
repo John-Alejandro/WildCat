@@ -81,6 +81,7 @@ body {
     text-align: center;
     font-weight: bold;
     font-size: 550px;
+    color: transparent;
 }
 #seven {
     display: inline-block;
