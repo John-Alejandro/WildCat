@@ -125,4 +125,5 @@ body {
     background-position: center;
     -webkit-background-clip: text;
     text-align: center;
+    font-weight: bold;
 }
