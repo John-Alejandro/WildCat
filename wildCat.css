@@ -144,4 +144,5 @@ body {
     display: inline-block;
     background-image: url("");
     background-size: cover;
+    background-position: center;
 }
