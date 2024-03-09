@@ -102,10 +102,12 @@ body {
     text-align: center;
     font-weight: bold;
     font-size: 550px;
+    padding: ;
     color: transparent;
 }
 #nine {
     display: inline-block;
     background-image: url("");
     background-size: 550px;
+    background-position: center;
 }
