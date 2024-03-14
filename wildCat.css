@@ -102,7 +102,6 @@ body {
     text-align: center;
     font-weight: bold;
     font-size: 550px;
-    padding: ;
     color: transparent;
 }
 #nine {
@@ -114,4 +113,5 @@ body {
     -webkit-background-clip: text;
     text-align: center;
     font-weight: bold;
+    font-size: 550px;
 }
