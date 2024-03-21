@@ -30,6 +30,32 @@ body {
     font-size: 550px;
     color: transparent;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #three {
     display: inline-block;
     background-image: url("https://t4.ftcdn.net/jpg/05/51/76/15/360_F_551761552_z6LzhPQUeVFXRpacmIKHwr0auUgsDIYn.jpg");
@@ -120,4 +146,5 @@ body {
     display: inline-block;
     background-image: url("");
     background-size: 550px;
+    background-position: center;
 }
