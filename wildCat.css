@@ -147,4 +147,5 @@ body {
     background-image: url("");
     background-size: 550px;
     background-position: center;
+    background-clip: text;
 }
