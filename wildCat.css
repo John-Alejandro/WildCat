@@ -148,4 +148,5 @@ body {
     background-size: 550px;
     background-position: center;
     background-clip: border-box;
+    -webkit-background-clip: text;
 }
