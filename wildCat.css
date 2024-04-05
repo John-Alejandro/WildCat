@@ -132,4 +132,5 @@ body {
     display: inline-block;
     background-image: url("");
     background-size: 350px;
+    background-position: center;
 }
