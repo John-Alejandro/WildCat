@@ -179,4 +179,6 @@ body {
 #fifteen {
     display: inline-block;
     background-image: url("");
+    background-size: 350px
+;
 }
