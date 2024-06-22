@@ -164,14 +164,12 @@ body {
     font-size: 350px;
     color: transparent;
 }
-#fourteen {ion: center;
-    background-clip: border-box;
-    -webkit-background-
-
+#fourteen {
     display: inline-block;
+    background-clip: border-box;
     background-image: url("");
     background-size: 350px;
-    background-positclip: border-box;
+    background-position: center;
     text-align: center;
     font-weight: bold;
     font-size: 350px;
@@ -194,9 +192,10 @@ body {
     background-image: url("");
     background-size: 350px;
     background-position: center;
-    backnd-clip: border-box;
-    text-align: center;grou
+    background-clip: border-box;
+    text-align: center;
     -webkit-background-clip: border-box;
+
 
 
 }
