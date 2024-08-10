@@ -235,4 +235,6 @@ body {
     font-size: 350px;
     color: transparent;
 }
-#twenty {}
+#twenty {
+    display: inline-block;
+}
