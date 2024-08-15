@@ -225,13 +225,13 @@ body {
 }
 #nineteen {
     display: inline-block;
-    background-image: url("");
+    bacbackground-clip: border-box;
+    text-align: center;
+    font-weight:kground-image: url("");
     background-size: 350px;
     background-position: center;
     background-clip: border-box;
-    -webkit-background-clip: border-box;
-    text-align: center;
-    font-weight: bold;
+    -webkit- bold;
     font-size: 350px;
     color: transparent;
 }
@@ -239,4 +239,5 @@ body {
     display: inline-block;
     background-image: url("");
     background-size: 350px;
+    background-position: center;
 }
