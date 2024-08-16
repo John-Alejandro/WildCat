@@ -240,4 +240,5 @@ body {
     background-image: url("");
     background-size: 350px;
     background-position: center;
+    background-clip: border-box;
 }
