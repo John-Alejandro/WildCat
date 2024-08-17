@@ -225,9 +225,9 @@ body {
 }
 #nineteen {
     display: inline-block;
-    bacbackground-clip: border-box;
+    background-image: url("");
     text-align: center;
-    font-weight:kground-image: url("");
+    font-weight: bold;
     background-size: 350px;
     background-position: center;
     background-clip: border-box;
