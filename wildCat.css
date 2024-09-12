@@ -259,5 +259,6 @@ body {
     color: transparent;
 }
 #twenty-two {
+    display: inline-block;
 
 }
