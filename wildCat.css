@@ -265,5 +265,6 @@ body {
     font-weight: bold;
     background-size: 350px;
     background-position: center;
+    -webkit-background-clip: border-box;
 
 }
