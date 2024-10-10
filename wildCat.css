@@ -277,5 +277,6 @@ body {
     background-position: center;
     background-clip: border-box;
     -webkit-background-clip: border-box;
+    text-align: center;
 
 }
