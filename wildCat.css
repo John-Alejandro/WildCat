@@ -295,5 +295,6 @@ body {
     color: transparent;
 }
 #twenty-five {
+    display: inline-block;
 }
 }
