@@ -298,5 +298,6 @@ body {
     display: inline-block;
     background-image: url("");
     text-align: center;
+    font-weight: bold;
 }
 
