@@ -317,5 +317,6 @@ body {
     font-size: 350px;
     color: transparent;
 }
-#twenty-seven {}
+#twenty-seven {
+display: inline-block}
 
