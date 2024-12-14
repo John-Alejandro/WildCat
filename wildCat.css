@@ -318,5 +318,7 @@ body {
     color: transparent;
 }
 #twenty-seven {
-display: inline-block}
+    display: inline-block;
+background-image: url("");
+}
 
