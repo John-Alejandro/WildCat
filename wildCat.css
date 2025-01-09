@@ -339,4 +339,7 @@ body {
     font-size: 350px;
     color:transparent;
 }
-#twenty-nine {}
+#twenty-nine {
+    display: inline-block;
+}
+}
