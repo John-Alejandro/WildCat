@@ -365,7 +365,8 @@ body {
     color: transparent;
 }
 #thirty-one {
-display: inline-block}
+    display: inline-block;
+    background-image: url("");
 }
 
 
