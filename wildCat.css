@@ -226,11 +226,11 @@ body {
 #nineteen {
     display: inline-block;
     background-image: url("");
-    text-align: center;
-    font-weight: bold;
     background-size: 350px;
     background-position: center;
     -webkit-background-clip: border-box;
+    text-align: center;
+    font-weight: bold;
     font-size: 350px;
     color: transparent;
 }
