@@ -176,6 +176,7 @@ body {
     display: inline-block;
     background-clip: border-box;
     background-image: url("");
+    background-repeat: no-repeat;
     background-size: 350px;
     background-position: center;
     text-align: center;
