@@ -187,6 +187,7 @@ body {
 #fifteen {
     display: inline-block;
     background-image: url("");
+    background-repeat: no-repeat;
     background-size: 350px;
     background-position: center;
     background-clip: border-box;
