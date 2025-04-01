@@ -239,6 +239,7 @@ body {
 #nineteen {
     display: inline-block;
     background-image: url("");
+    background-repeat: no-repeat;
     background-size: 350px;
     background-position: center;
     -webkit-background-clip: border-box;
