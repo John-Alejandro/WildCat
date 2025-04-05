@@ -277,6 +277,7 @@ body {
 #twenty-two {
     display: inline-block;
     background-image: url("");
+    background-repeat: no-repeat;
     text-align: center;
     font-weight: bold;
     background-size: 350px;
