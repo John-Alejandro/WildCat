@@ -305,6 +305,7 @@ body {
     display: inline-block;
     background-image: url("");
     background-position: center;
+    background-repeat: no-repeat;
     background-clip: border-box;
     -webkit-background-clip: border-box;
     text-align: center;
