@@ -355,6 +355,7 @@ body {
 #twenty-eight {
     display: inline-block;
     background-image: url("");
+    background-repeat: no-repeat;
     background-size: 350px;
     background-clip: border-box;
     -webkit-background-clip: border-box;
