@@ -392,6 +392,7 @@ body {
 #thirty-one {
     display: inline-block;
     background-image: url("");
+    background-repeat: no-repeat;
     background-size: 850px;
     background-position: center;
     background-clip: border-box;
