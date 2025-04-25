@@ -414,4 +414,9 @@ body {
     font-size: 350px;
     color: transparent;
 }
+#thirty-three {
+    display: inline-block;
+    background-image: url("");
+    background-size: 550px;
+}
 
