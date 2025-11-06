@@ -426,4 +426,16 @@ body {
     font-size: 350px;
     color: transparent;
 }
+#thirty-four {
+    display: inline-block;
+    background-image: url("");
+    background-size: 550px;
+    background-position: center;
+    background-clip: border-box;
+    -webkit-background-clip: border-box;
+    text-align: center;
+    font-weight: bold;
+    font-size: 350px;
+    color: transparent;
+}
 
